@@ -1,12 +1,13 @@
 <div align="center">
   <h1 align="center">Hola, soy Giovanny Alexis 👋</h1>
 </div>
-<img src="![software-engineering-jr](https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png)">
+
+![software-engineering-jr](https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png)
 
 ## Un poco sobre mi
 
 - ✏️ Estudiante en utimos timestres de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software.
-Aprendizaje destacado:
+- Aprendizaje destacado:
 - 📱 Desarrollo móvil
 - 💻 Desarollo web
 - 💾 Creación y mantenimiento de bases de datos
