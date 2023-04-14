@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Giovanny Alexis 👋</h1>
 </div>
-<img src="https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png">
+<img src="https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png"/>
 
 ## Un poco sobre mi
 
