@@ -7,7 +7,8 @@
 ## Un poco sobre mi
 
 - ✏️ Estudiante en utimos timestres de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software.
-- Aprendizaje destacado:
+
+Aprendizaje destacado:
 - 📱 Desarrollo móvil
 - 💻 Desarollo web
 - 💾 Creación y mantenimiento de bases de datos
@@ -22,7 +23,7 @@ Contacto:
 
 <p align="center">
   <a href="https://github.com/AlexisReyes">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexisReyes98&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
