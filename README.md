@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Giovanny Alexis 👋</h1>
+</div>
+<img src="![software-engineering-jr](https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png)">
 
-<!--
-**AlexisReyes98/AlexisReyes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Un poco sobre mi
 
-Here are some ideas to get you started:
+- ✏️ Estudiante en utimos timestres de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software.
+Aprendizaje destacado:
+- 📱 Desarrollo móvil
+- 💻 Desarollo web
+- 💾 Creación y mantenimiento de bases de datos
+- 📚 Big data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto:
+- 📩 EMAIL: giovanny29.garv@gmail.com
+- 📞 CELULAR: 55-63-44-42-59
+- 🔊 IDIOMAS: Español - Nativo, Inglés - Basico
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AlexisReyes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexisReyes98&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
