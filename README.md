@@ -2,7 +2,9 @@
   <h1 align="center">Hola, soy Giovanny Alexis 👋</h1>
 </div>
 
-![software-engineering-jr](https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png)
+<p align="center">
+  ![software-engineering-jr](https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png)
+</p>
 
 ## Un poco sobre mi
 
@@ -19,11 +21,11 @@ Contacto:
 - 📞 CELULAR: 55-63-44-42-59
 - 🔊 IDIOMAS: Español - Nativo, Inglés - Basico
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Mi análisis de GitHub
 
 <p align="center">
   <a href="https://github.com/AlexisReyes">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexisReyes98&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
