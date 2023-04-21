@@ -16,7 +16,7 @@ Aprendizaje destacado:
 Contacto:
 - 📩 EMAIL: giovanny29.garv@gmail.com
 - 📞 CELULAR: 55-63-44-42-59
-- 🔊 IDIOMAS: Español - Nativo, Inglés - Basico
+- 🗺️ IDIOMAS: Español - Nativo, Inglés - Basico
 
 ### ⚙️ &nbsp;Mi análisis de GitHub
 
