@@ -10,8 +10,9 @@
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
 - 💻 Desarollo web
-- 💾 Creación y mantenimiento de bases de datos
-- 📚 Big data
+- 📚 Creación y mantenimiento de bases de datos
+- 💾 Big data
+- 🌎 Google Cloud Computing
 
 Contacto:
 - 📩 EMAIL: giovanny29.garv@gmail.com
