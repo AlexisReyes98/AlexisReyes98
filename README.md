@@ -5,22 +5,38 @@
 
 ## Un poco sobre mi
 
-- ✏️ Estudiante en utimos timestres de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software.
+- ✏️ Estudiante en útimo timestre de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, computo en la nube, etc.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
-- 💻 Desarollo web
+- 💻 Desarrollo web
 - 📚 Creación y mantenimiento de bases de datos
 - 💾 Big data
 - 🌎 Google Cloud Computing
 
-Perfil publico en Google Cloud:
-- https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
+Conocimientos específicos:
+- Java
+- C y C++
+- Python y FastAPI
+- Html, Css, JavaScript y React
+- C# y .NET
+- Android Kotlin/Java
+- Flutter
+- MySQL y MongoDB
+- Oracle Database PL/SQL
+- Oracle Tuxedo
+- Oracle Pro*C/C++
+- MATLAB
+- A-Frame, Three.js y Babylon.js
+- OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
+- WebGL y Shaders Phong, Toon, Bump y Wobble
 
 Contacto:
-- 📩 EMAIL: giovanny29.garv@gmail.com
-- 📞 CELULAR: 55-63-44-42-59
-- 🗺️ IDIOMAS: Español - Nativo, Inglés - Basico
+- 📩 giovanny29.garv@gmail.com
+- 📞 55-63-44-42-59
+
+Perfil publico en Google Cloud:
+- 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
 
 ### ⚙️ &nbsp;Mi análisis de GitHub
 
