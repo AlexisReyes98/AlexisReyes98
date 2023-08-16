@@ -16,7 +16,7 @@ Aprendizaje destacado:
 
 Conocimientos específicos:
 - Java
-- C y C++
+- C, C++
 - Python y FastAPI
 - Html, Css, JavaScript y React
 - C# y .NET
@@ -27,6 +27,8 @@ Conocimientos específicos:
 - Oracle Tuxedo
 - Oracle Pro*C/C++
 - MATLAB
+- Git
+- MVC, MVVM
 - A-Frame, Three.js y Babylon.js
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
