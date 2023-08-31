@@ -29,6 +29,7 @@ Conocimientos específicos:
 - MATLAB
 - Git
 - MVC, MVVM
+- SCRUM
 - A-Frame, Three.js y Babylon.js
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
