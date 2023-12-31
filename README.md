@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi
 
-- ✏️ Egresado de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo en la nube, etc.
+- ✏️ Egresado de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo distribuido, cómputo en la nube, etc.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
@@ -14,25 +14,53 @@ Aprendizaje destacado:
 - 💾 Big data
 - 🌎 Google Cloud Computing
 
-Conocimientos específicos:
+Conocimientos específicos.
+
+Lenguajes y tecnologías:
 - Java
 - C, C++
 - Python y FastAPI
 - Html, Css, JavaScript y React
-- C# y .NET
+- Visual Basic, C# y .NET
 - Android Kotlin/Java
 - Flutter
 - MySQL y MongoDB
 - Oracle Database PL/SQL
 - Oracle Tuxedo
 - Oracle Pro*C/C++
+- Microsoft SQL Server
 - MATLAB
-- Git
-- MVC, MVVM
-- SCRUM
+- Git y Github
 - A-Frame, Three.js y Babylon.js
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
+
+Desarrollo de Software a Gran Escala:
+- Proceso Unificado de Desarrollo de Software (UP)
+- Ciclos de vida
+- Análisis, diseño e implementación en el desarrollo orientado a objetos (ADOO).
+- Lenguaje unificado de modelado (UML)
+- Diseño Arquitectónico
+- Model-View-Controller (MVC)
+- Model–View–ViewModel (MVVM)
+- Presentation-Abstraction-Control (PAC)
+- Model-View-Presenter (MVP)
+- Arquitectura de 4 Capas
+- Arquitectura Blackboard
+- Patrones de Diseño
+- Patrones Arquitectónicos
+- Diseño de Componentes
+- Sistemas interactivos
+- Gestión de configuración
+- Calidad y pruebas
+- Sistemas Orientados a Eventos
+
+Metodologías Ágiles:
+- SCRUM
+- Extreme programing (XP)
+- Feature-driven development (FDD)
+- Test-driven development (TDD)
+- Dynamic Systems Development (DSDM)
 
 Contacto:
 - 📩 giovanny29.garv@gmail.com
