@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi
 
-- ✏️ Estudiante en último trimestre de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo en la nube, etc.
+- ✏️ Egresado de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo en la nube, etc.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
