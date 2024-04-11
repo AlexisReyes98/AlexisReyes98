@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi
 
-- ✏️ Egresado de la carrera de Ingeniería en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo distribuido, cómputo en la nube, etc.
+- ✏️ Ingeniero en Computación, con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo distribuido, cómputo en la nube, etc.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
@@ -36,6 +36,7 @@ Lenguajes y tecnologías:
 - WebGL y Shaders Phong, Toon, Bump y Wobble
 
 Desarrollo de Software a Gran Escala:
+- SCRUM
 - Proceso Unificado de Desarrollo de Software (UP)
 - Ciclos de vida
 - Análisis, diseño e implementación en el desarrollo orientado a objetos (ADOO).
@@ -54,13 +55,6 @@ Desarrollo de Software a Gran Escala:
 - Gestión de configuración
 - Calidad y pruebas
 - Sistemas Orientados a Eventos
-
-Metodologías Ágiles:
-- SCRUM
-- Extreme programing (XP)
-- Feature-driven development (FDD)
-- Test-driven development (TDD)
-- Dynamic Systems Development (DSDM)
 
 Contacto:
 - 📩 giovanny29.garv@gmail.com
