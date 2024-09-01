@@ -24,11 +24,11 @@ Lenguajes y tecnologías:
 - Visual Basic, C# y .NET
 - Android Kotlin/Java
 - Flutter
-- MySQL y MongoDB
+- MySQL y SQL Server
+- MongoDB
 - Oracle Database PL/SQL
 - Oracle Tuxedo
 - Oracle Pro*C/C++
-- Microsoft SQL Server
 - MATLAB
 - Git y Github
 - A-Frame, Three.js y Babylon.js
@@ -44,15 +44,11 @@ Desarrollo de Software a Gran Escala:
 - Diseño Arquitectónico
 - Model-View-Controller (MVC)
 - Model–View–ViewModel (MVVM)
-- Presentation-Abstraction-Control (PAC)
-- Model-View-Presenter (MVP)
 - Arquitectura de 4 Capas
 - Arquitectura Blackboard
 - Patrones de Diseño
 - Patrones Arquitectónicos
 - Diseño de Componentes
-- Sistemas interactivos
-- Gestión de configuración
 - Calidad y pruebas
 - Sistemas Orientados a Eventos
 
