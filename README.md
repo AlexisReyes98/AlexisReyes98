@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi
 
-- ✏️ Ingeniero en Computación con conocimientos en diseño, construcción y mantenimiento de sistemas de software, administración de bases de datos, manejo de sistemas operativos, cómputo en la nube, Big data, seguridad y sistemas Inteligentes.
+- ✏️ Ingeniero en Computación con experiencia en diseño, desarrollo y mantenimiento de sistemas de software. Especializado en ingeniería de software, bases de datos avanzadas, gestión de sistemas operativos, computación en la nube, Big Data, ciberseguridad y sistemas inteligentes.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
