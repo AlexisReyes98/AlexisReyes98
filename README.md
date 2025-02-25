@@ -14,6 +14,9 @@ Aprendizaje destacado:
 - 💾 Big data
 - 🌎 Google Cloud Computing
 
+Perfil en Google Cloud:
+- 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
+
 Conocimientos específicos.
 
 Lenguajes y tecnologías:
@@ -55,9 +58,6 @@ Desarrollo de Software a Gran Escala:
 Contacto:
 - 📩 giovanny29.garv@gmail.com
 - 📞 55-63-44-42-59
-
-Perfil en Google Cloud:
-- 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
 
 ### ⚙️ &nbsp;Mi análisis de GitHub
 
