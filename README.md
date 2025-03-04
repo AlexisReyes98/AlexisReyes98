@@ -25,6 +25,7 @@ Lenguajes y tecnologías:
 - Python y FastAPI
 - Html, Css, JavaScript y React
 - Visual Basic, C# y .NET
+- XML, JSON
 - Android Kotlin/Java
 - Flutter
 - MySQL y SQL Server
