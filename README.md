@@ -20,12 +20,14 @@ Perfil en Google Cloud:
 Conocimientos específicos.
 
 Lenguajes y tecnologías:
-- Java
+- Java, Spring Boot, Hibernate
+- Visual Basic, C# y .NET
+- JWT, API Rest
+- XML, JSON
 - C, C++
 - Python y FastAPI
-- Html, Css, JavaScript y React
-- Visual Basic, C# y .NET
-- XML, JSON
+- Html, Css, JavaScript y TypeScript
+- React y Angular
 - Android Kotlin/Java
 - Flutter
 - MySQL y SQL Server
