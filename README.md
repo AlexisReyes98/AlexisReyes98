@@ -5,12 +5,12 @@
 
 ## Un poco sobre mi
 
-- ✏️ Ingeniero en Computación con experiencia en diseño, desarrollo y mantenimiento de sistemas de software. Especializado en ingeniería de software, bases de datos avanzadas, gestión de sistemas operativos, computación en la nube, Big Data, ciberseguridad y sistemas inteligentes.
+- ✏️ Ingeniero en Computación con experiencia en diseño, desarrollo y mantenimiento de sistemas de software. Especializado en ingeniería de software, bases de datos avanzadas, computo concurrente y sistemas inteligentes. Con estudios en computación en la nube, Big Data y ciberseguridad.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
 - 💻 Desarrollo web
-- 📚 Creación y mantenimiento de bases de datos
+- 📚 Gestión de bases de datos
 - 💾 Big data
 - 🌎 Google Cloud Computing
 
@@ -29,7 +29,7 @@ Lenguajes y tecnologías:
 - Html, Css, JavaScript y TypeScript
 - React y Angular
 - Android Kotlin/Java
-- Flutter
+- Dart y Flutter
 - MySQL y SQL Server
 - MongoDB
 - Oracle Database PL/SQL
