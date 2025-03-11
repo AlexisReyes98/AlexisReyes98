@@ -2,7 +2,8 @@
   <h1 align="center">Hola, soy Giovanny Alexis 🫡</h1>
   <img  height="200em" src="https://user-images.githubusercontent.com/72325257/231974182-fc3ef7ba-f199-474d-af21-9cec513297b8.png"/>
 </div>
-![1724559796573](https://github.com/user-attachments/assets/b4192248-b541-4341-bea3-e806ed2f1b59)
+![1724559796573](https://github.com/user-attachments/assets/8b2cff90-6b68-40eb-a133-9821d003ea27)
+
 ## Un poco sobre mi
 
 - ✏️ Ingeniero en Computación con experiencia en diseño, desarrollo y mantenimiento de sistemas de software. Especializado en ingeniería de software, bases de datos avanzadas, computo concurrente y sistemas inteligentes. Con estudios en computación en la nube, Big Data y ciberseguridad.
