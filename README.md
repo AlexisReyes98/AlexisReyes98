@@ -43,6 +43,7 @@ Lenguajes y tecnologías:
 
 Desarrollo de Software a Gran Escala:
 - SCRUM
+- Principios SOLID
 - Proceso Unificado de Desarrollo de Software (UP)
 - Ciclos de vida
 - Análisis, diseño e implementación en el desarrollo orientado a objetos (ADOO).
