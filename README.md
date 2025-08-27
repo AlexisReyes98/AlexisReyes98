@@ -5,7 +5,9 @@
 
 ## Un poco sobre mi
 
-- ✏️ Ingeniero en Computación con experiencia en diseño, desarrollo y mantenimiento de sistemas de software. Especializado en ingeniería de software, bases de datos avanzadas, computo concurrente y sistemas inteligentes. Con estudios en computación en la nube, Big Data y ciberseguridad.
+- ✏️ Soy Ingeniero en Computación con experiencia en el ciclo completo del desarrollo de software, incluyendo el diseño, desarrollo y mantenimiento de sistemas.
+
+Mi expertise se centra en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y cómputo concurrente. Además, cuento con conocimientos en tendencias tecnológicas clave como ciberseguridad, Cloud Computing, Big Data y AI.
 
 Aprendizaje destacado:
 - 📱 Desarrollo móvil
@@ -41,11 +43,12 @@ Lenguajes y tecnologías:
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
 
-Desarrollo de Software a Gran Escala:
+Ingeniería de Software:
 - SCRUM
 - Principios SOLID
 - Proceso Unificado de Desarrollo de Software (UP)
 - Ciclos de vida
+- Desarrollo de Software a Gran Escala
 - Análisis, diseño e implementación en el desarrollo orientado a objetos (ADOO).
 - Lenguaje unificado de modelado (UML)
 - Diseño Arquitectónico
@@ -56,8 +59,10 @@ Desarrollo de Software a Gran Escala:
 - Patrones de Diseño
 - Patrones Arquitectónicos
 - Diseño de Componentes
-- Calidad y pruebas
 - Sistemas Orientados a Eventos
+- Análisis de Requerimientos
+- Administración de Proyectos
+- Calidad y Pruebas
 
 Contacto:
 - 📩 giovanny29.garv@gmail.com
@@ -68,6 +73,6 @@ Contacto:
 <p align="center">
   <a href="https://github.com/AlexisReyes98">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexisReyes98&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexisReyes98&show_icons=true&theme=algolia&include_all_commits=true&count_prIivate=true"/>
   </a>
 </p>
