@@ -6,7 +6,7 @@
 ## Un poco sobre mi
 
 - ✏️ Soy Ingeniero en Computación con experiencia en el ciclo completo del desarrollo de software, incluyendo el diseño, desarrollo y mantenimiento de sistemas.
-- Mi expertise se centra en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y cómputo concurrente. Además, cuento con conocimientos en tendencias tecnológicas clave como ciberseguridad, Cloud Computing, Big Data y AI.
+- Especializado en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y cómputo concurrente. Además, cuento con conocimientos en tendencias tecnológicas clave como ciberseguridad, Cloud Computing, Big Data y AI.
 
 Perfil en Google Cloud:
 - 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
