@@ -6,7 +6,7 @@
 ## Un poco sobre mi
 
 - ✏️ Soy Ingeniero en Computación con experiencia en el ciclo completo del desarrollo de software, incluyendo el diseño, desarrollo y mantenimiento de sistemas.
-- Especializado en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y cómputo concurrente. Además, cuento con conocimientos en tendencias tecnológicas clave como ciberseguridad, Cloud Computing, Big Data y AI.
+- Especializado en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y administración de proyectos. Además, cuento con conocimientos en Big Data y en los cinco pilares de la transformación digital (Cloud Computing, AI, ciberseguridad, Blockchain y IoT).
 
 Perfil en Google Cloud:
 - 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
@@ -18,7 +18,7 @@ Conocimientos específicos.
 - 💻 Desarrollo web
 - 📚 Gestión de bases de datos
 - 💾 Big data
-- 🌎 Google Cloud Computing
+- 🌎 Cloud Computing
 
 Lenguajes y tecnologías:
 - Java, Spring Boot, Hibernate
@@ -41,6 +41,7 @@ Lenguajes y tecnologías:
 - A-Frame, Three.js y Babylon.js
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
+- ObjectScript, ESB IRIS InterSystems
 
 Ingeniería de Software:
 - SCRUM
@@ -60,7 +61,6 @@ Ingeniería de Software:
 - Diseño de Componentes
 - Sistemas Orientados a Eventos
 - Análisis de Requerimientos
-- Administración de Proyectos
 - Calidad y Pruebas
 
 Contacto:
