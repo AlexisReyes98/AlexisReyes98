@@ -21,21 +21,21 @@ Conocimientos específicos.
 - 🌎 Cloud Computing
 
 Lenguajes y tecnologías:
-- Java, Spring Boot, Hibernate
 - Visual Basic, C# y .NET
-- JWT, API Rest
+- Java, Spring Boot, Hibernate
+- JWT, API REST
 - XML, JSON
 - C, C++
 - Python y FastAPI
-- Html, Css, JavaScript y TypeScript
+- HTML, CSS, JavaScript y TypeScript
 - React y Angular
 - Android Kotlin/Java
 - Dart y Flutter
-- MySQL y SQL Server
-- MongoDB
 - Oracle Database PL/SQL
 - Oracle Tuxedo
 - Oracle Pro*C/C++
+- MySQL y SQL Server
+- MongoDB
 - MATLAB
 - Git y Github
 - A-Frame, Three.js y Babylon.js
@@ -55,7 +55,6 @@ Ingeniería de Software:
 - Model-View-Controller (MVC)
 - Model–View–ViewModel (MVVM)
 - Arquitectura de 4 Capas
-- Arquitectura Blackboard
 - Patrones de Diseño
 - Patrones Arquitectónicos
 - Diseño de Componentes
