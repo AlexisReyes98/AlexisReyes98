@@ -20,31 +20,34 @@ Conocimientos específicos.
 - 💾 Big data
 - 🌎 Cloud Computing
 
-Lenguajes y tecnologías:
-- Visual Basic, C# y .NET
+Desarrollo Full Stack, Bases de Datos y Optimización:
+- C#, VB y .NET (.NET Core/.NET Framework)
 - Java, Spring Boot, Hibernate
-- JWT, API REST
+- API REST y SOAP/WSDL, autenticación/autorización (JWT, OAuth)
 - XML, JSON
 - C, C++
 - Python y FastAPI
 - HTML, CSS, JavaScript y TypeScript
 - React y Angular
 - Android Kotlin/Java
-- Dart y Flutter
+- Dart, Flutter
 - Oracle Database PL/SQL
 - Oracle Tuxedo
 - Oracle Pro*C/C++
 - MySQL y SQL Server
+- Stored Procedures, Triggers, Views, Functions, optimización de consultas, manejo de transacciones y concurrencia.
 - MongoDB
 - MATLAB
-- Git y Github
+- Control de versiones (Git/GitHub/GitLab)
 - A-Frame, Three.js y Babylon.js
 - OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
 - WebGL y Shaders Phong, Toon, Bump y Wobble
 - ObjectScript, ESB IRIS InterSystems
 
 Ingeniería de Software:
-- SCRUM
+- Desarrollo ágil SCRUM
+- CI/CD
+- Clean Architecture, microservicios
 - Principios SOLID
 - Proceso Unificado de Desarrollo de Software (UP)
 - Ciclos de vida
