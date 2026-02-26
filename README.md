@@ -9,7 +9,7 @@
 - Especializado en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y administración de proyectos. Además, cuento con conocimientos en Big Data y en los cinco pilares de la transformación digital (Cloud Computing, AI, ciberseguridad, Blockchain y IoT).
 
 Perfil en Google Cloud:
-- 🌐 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
+🌐 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
 
 Desarrollo Full Stack:
 
