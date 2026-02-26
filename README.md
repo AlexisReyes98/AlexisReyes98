@@ -9,45 +9,49 @@
 - Especializado en la ingeniería de software, bases de datos avanzadas, sistemas distribuidos y administración de proyectos. Además, cuento con conocimientos en Big Data y en los cinco pilares de la transformación digital (Cloud Computing, AI, ciberseguridad, Blockchain y IoT).
 
 Perfil en Google Cloud:
-- 🌎 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
+- 🌐 https://www.cloudskillsboost.google/public_profiles/b05bce21-2189-4393-b4c8-aaf806b88a60
 
-Conocimientos específicos.
+Desarrollo Full Stack:
 
-Áreas destacadas:
-- 📱 Desarrollo móvil
-- 💻 Desarrollo web
-- 📚 Gestión de bases de datos
-- 💾 Big data
-- 🌎 Cloud Computing
-
-Desarrollo Full Stack, Bases de Datos y Optimización:
-- C#, VB y .NET (.NET Core/.NET Framework)
-- Java, Spring Boot, Hibernate
-- API REST y SOAP/WSDL, autenticación/autorización (JWT, OAuth)
-- XML, JSON
-- C, C++
-- Python y FastAPI
-- HTML, CSS, JavaScript y TypeScript
+🌎 Desarrollo Frontend
+- HTML, CSS
+- JavaScript y TypeScript
 - React y Angular
+- A-Frame, Three.js y Babylon.js
+- OpenGL/GLUT para C++ y OpenGL/GLUMPY para Python
+- WebGL y Shaders Phong, Toon, Bump y Wobble
+
+💻 Desarrollo Backend
+- C#, VB y .NET (.NET Core/.NET Framework)
+- Java, Spring Boot y Hibernate
+- API REST y SOAP/WSDL
+- Autenticación/autorización (JWT, OAuth)
+- JSON y XML
+- C y C++
+- Python y FastAPI
+- MATLAB
+- ESB IRIS InterSystems (ObjectScript, HL7, FHIR)
+
+📱 Desarrollo Móvil
 - Android Kotlin/Java
 - Dart, Flutter
+
+💾 Bases de Datos y Optimización
 - Oracle Database PL/SQL
 - Oracle Tuxedo
 - Oracle Pro*C/C++
-- MySQL y SQL Server
-- Stored Procedures, Triggers, Views, Functions, optimización de consultas, manejo de transacciones y concurrencia.
+- SQL Server
+- MySQL y MariaDB
+- Stored Procedures, Triggers, Views y Functions.
 - MongoDB
-- MATLAB
-- Control de versiones (Git/GitHub/GitLab)
-- A-Frame, Three.js y Babylon.js
-- OpenGL/GLUT para C++, OpenGL/GLUMPY para Python
-- WebGL y Shaders Phong, Toon, Bump y Wobble
-- ObjectScript, ESB IRIS InterSystems
+
+📚 Control de versiones (Git/GitHub/GitLab)
 
 Ingeniería de Software:
+
 - Desarrollo ágil SCRUM
 - CI/CD
-- Clean Architecture, microservicios
+- Clean Architecture y microservicios
 - Principios SOLID
 - Proceso Unificado de Desarrollo de Software (UP)
 - Ciclos de vida
